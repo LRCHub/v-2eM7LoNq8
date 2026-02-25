@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "スターライト",
+  "base_artist": "大空スバル",
+  "createdAt": "2026-02-25T07:07:13.819099Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スターライト",
+      "artist": "大空スバル",
+      "has_synced": false,
+      "path": "select/01_スターライト_大空スバル.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スターライト",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/02_スターライト_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "スターライト・セレナーデ",
+      "artist": "山瀬まみ",
+      "has_synced": false,
+      "path": "select/03_スターライト・セレナーデ_山瀬まみ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "スターライト・セレナーデ",
+      "artist": "Yamase, Mami",
+      "has_synced": false,
+      "path": "select/04_スターライト・セレナーデ_Yamase,_Mami.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "スターライト",
+      "artist": "Dynazty",
+      "has_synced": false,
+      "path": "select/05_スターライト_Dynazty.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ステンレス・スターライト",
+      "artist": "SaoriRinne",
+      "has_synced": false,
+      "path": "select/06_ステンレス・スターライト_SaoriRinne.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "SHINING LINE* ～スターライト Ver.～",
+      "artist": "わか・ふうり・ゆな・れみ・えり・るか from STAR☆ANIS",
+      "has_synced": false,
+      "path": "select/07_SHINING_LINE__~スターライト_Ver.~_わか・ふうり・ゆな・れみ・えり・るか_from_STAR☆ANIS.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "スターライト",
+      "artist": "榊原良子",
+      "has_synced": false,
+      "path": "select/08_スターライト_榊原良子.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "スターライト",
+      "artist": "redballoon",
+      "has_synced": false,
+      "path": "select/09_スターライト_redballoon.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "スターライト",
+      "artist": "エイプリルブルー",
+      "has_synced": true,
+      "path": "select/10_スターライト_エイプリルブルー.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "スターライト Starlight Ver.",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/11_スターライト_Starlight_Ver._amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "スターライト",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/12_スターライト_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "スターライト",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/13_スターライト_amazarashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スターライト",
+      "artist": "大空スバル",
+      "has_synced": false,
+      "path": "select/pl_01_スターライト_大空スバル.txt"
+    }
+  ]
+}
